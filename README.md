@@ -17,3 +17,5 @@
 ![image info](MemeCreator/MemeCreator.png)
 ## BubbleLevel
 ![image info](BubbleLevel/BubbleLevel.png)
+## Seismometer
+![image info](Seismometer/Seismometer.png)
