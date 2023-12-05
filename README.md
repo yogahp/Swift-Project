@@ -1,11 +1,3 @@
 # Swift-Project
-## aboutme
-![image info](aboutme/aboutme.png)
-## cyos
-![image info](cyos/cyos.png)
-## DatePlanner
-![image info](DatePlanner/dateplanner.png)
-## OrganizingWithGrids
-![image info](OrganizingWithGrids/OrganizingWithGrids.png)
-## SymbolGrid
-![image info](SymbolGrid/SymbolGrid.png)
+## AboutMe
+![image info](AboutMe/AboutMe.png)
