@@ -23,3 +23,5 @@
 ![image info](RecognizingGestures/RecognizingGestures.png)
 ## AnimatingShapes
 ![image info](AnimatingShapes/AnimatingShapes.png)
+## CapturingPhotos
+![image info](CapturingPhotos/CapturingPhotos.png)
