@@ -11,3 +11,5 @@
 ![image info](EditingGrids/EditingGrids.png)
 ## ImageGallery
 ![image info](ImageGallery/ImageGallery.png)
+## LayingOutViews
+![image info](LayingOutViews/LayingOutViews.png)
