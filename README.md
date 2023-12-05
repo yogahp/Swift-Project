@@ -9,3 +9,5 @@
 ![image info](OrganizingWithGrids/OrganizingWithGrids.png)
 ## EditingGrids
 ![image info](EditingGrids/EditingGrids.png)
+## ImageGallery
+![image info](ImageGallery/ImageGallery.png)
