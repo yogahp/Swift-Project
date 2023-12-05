@@ -5,3 +5,5 @@
 ![image info](ChooseYourOwnStory/ChooseYourOwnStory.png)
 ## DatePlanner
 ![image info](DatePlanner/DatePlanner.png)
+## OrganizingWithGrids
+![image info](OrganizingWithGrids/OrganizingWithGrids.png)
